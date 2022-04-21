@@ -1,0 +1,2 @@
+Nama Perangkat : cisco packet trace, 	 Lokasi : Gedung B
+Nama Perangkat : cisco ASA 5511, 	 Lokasi : Gedung C
